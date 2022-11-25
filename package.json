@@ -1,0 +1,19 @@
+{
+  "name": "ttt-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joerdixon/ttt-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joerdixon/ttt-react/issues"
+  },
+  "homepage": "https://github.com/joerdixon/ttt-react#readme"
+}
