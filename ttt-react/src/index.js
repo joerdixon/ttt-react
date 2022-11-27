@@ -13,6 +13,7 @@ class Square extends React.Component {
     }
   }
   
+  // Create class for the gameboard.
   class Board extends React.Component {
     renderSquare(i) {
       return <Square />;
@@ -44,6 +45,7 @@ class Square extends React.Component {
     }
   }
   
+  // Create an object for the entire game
   class Game extends React.Component {
     render() {
       return (
